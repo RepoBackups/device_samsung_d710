@@ -36,7 +36,7 @@ BOARD_SEPOLICY_UNION += \
     file.te \
     file_contexts \
     mediaserver.te \
-    system.te \
+    system_server.te \
     wimax.te
 
 # Notification LED
